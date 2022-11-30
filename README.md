@@ -45,7 +45,7 @@ I have the 3 datasets I used -
     * reward: (numeric) money gained from "offer completed"
 - time: (numeric) hours after start of test
 
-There a jupyter notebook 'Starbuck_Capstone_notebook.ipynb' to showcase the work and analysis performed to address the problem statement above.
+There is also a jupyter notebook **Starbuck_Capstone_notebook.ipynb** to showcase the work and analysis performed to address the problem statement above.
 
 # Results
 
